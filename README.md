@@ -1,3 +1,3 @@
-Bawarchi Resturant - Website - Live Demo
+                                                                                    **Bawarchi Resturant - Website - Live Demo**
 
-https://bawarchi-resturant.netlify.app/
+                                                                                        https://bawarchi-resturant.netlify.app/
