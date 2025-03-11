@@ -1,4 +1,4 @@
 
 # Bawarchi Resturant - Website - Live Demo
 
-[Live Demo**→**](https://bawarchi-resturant.netlify.app/)
+<a href="https://bawarchi-resturant.netlify.app/" target="_blank">Live Demo**→**<a>
