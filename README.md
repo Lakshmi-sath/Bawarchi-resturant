@@ -1,7 +1,7 @@
 
-# Resturant - Website - Live Demo
+#                                                                               Resturant - Website
 
-[Live Demo ▶](https://practice-resturant.netlify.app/)
+                                                                      [Live Demo ▶](https://practice-resturant.netlify.app/)
 
 </br>
 
