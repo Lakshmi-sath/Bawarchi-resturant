@@ -1,5 +1,5 @@
 
-# Bawarchi Resturant - Website - Live Demo
+# Resturant - Website - Live Demo
 
-[Live Demo ▶](https://bawarchi-resturant.netlify.app)
+[Live Demo ▶](https://practice-resturant.netlify.app/)
 
