@@ -1,11 +1,12 @@
-<div style="text-align: center">
+<div align="center">
   
-# Resturant - Website
+<h1>Resturant - Website</h1>
 
- [Live Demo ▶](https://practice-resturant.netlify.app/)
+<a href="https://practice-resturant.netlify.app/">Live Demo ▶</a>
 
 </br>
 
 ![Resturant Site](/Images/Resturant-webpage.png)
+
 </div>
 
